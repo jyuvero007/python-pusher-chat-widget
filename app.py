@@ -9,10 +9,10 @@ app.config['CORS_HEADERS'] = 'Content-Type'
 
 
 pusher = pusher_client = pusher.Pusher(
-  app_id='PUSHER_APP_ID',
-  key='PUSHER_APP_KEY',
-  secret='PUSHER_APP_SECRET',
-  cluster='PUSHER_APP_CLUSTER',
+  app_id='1073615',
+  key='031a5f6199801fa8d257',
+  secret='2ecb1d3316963c714f8c',
+  cluster='us2',
   ssl=True
 )
 
