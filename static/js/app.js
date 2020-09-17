@@ -5,9 +5,9 @@
     // Configure Pusher instance
     // ----------------------------------------------------
 
-    var pusher = new Pusher('PUSHER_APP_KEY', {
+    var pusher = new Pusher('031a5f6199801fa8d257', {
         authEndpoint: '/pusher/auth',
-        cluster: 'PUSHER_APP_SECRET',
+        cluster: '2ecb1d3316963c714f8c',
         encrypted: true
       });
 
